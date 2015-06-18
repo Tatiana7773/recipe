@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+onions
+carrots
+dried peas
+bay leaves
+ham bone
+marjoram
+
+=======
+ham
+salt
+pepper
+>>>>>>> 5651204a6825d3324b32179c171a79463dcf2aea
